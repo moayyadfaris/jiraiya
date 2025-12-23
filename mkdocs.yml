@@ -1,0 +1,11 @@
+site_name: Jiraiya Service
+site_description: AI Story Generator Service Documentation
+
+theme:
+  name: material
+
+plugins:
+  - search
+
+nav:
+  - Home: index.md
